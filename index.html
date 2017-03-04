@@ -20,7 +20,7 @@ circle {
 var margin = {top: 350, right: 480, bottom: 350, left: 480},
     radius = Math.min(margin.top, margin.right, margin.bottom, margin.left) - 10;
 
-var hue = d3.scale.category20();
+var hue = d3.scale.category10();
 
 var luminance = d3.scale.sqrt()
     .domain([0, 1e6])
@@ -45,7 +45,7 @@ var arc = d3.svg.arc()
     .innerRadius(function(d) { return radius / 3 * d.depth; })
     .outerRadius(function(d) { return radius / 3 * (d.depth + 1) - 1; });
 
-d3.json("flare.json", function(error, root) {
+d3.json("class_count_fuzzy.json", function(error, root) {
   if (error) throw error;
 
   // Compute the initial layout on the entire tree to sum sizes.

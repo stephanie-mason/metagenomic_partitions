@@ -7,6 +7,7 @@
 # RR counts for the lowest classifications.
 # The JSON output has the confidence level as the root, with division names
 # as the next level and lowest classifications & their counts as the leaves
+# Also sorts the data based on the parent column
 #
 # However, it can be used in a general case with any single level parent/child
 # relationship given counts on the children.
@@ -15,7 +16,7 @@
 #
 # Author: Stephanie Mason
 #==============================================================================#
-import sys, csv
+import sys, csv, operator
 
 #==============================================================================#
 # Main Program
@@ -45,30 +46,30 @@ outputFile.write("{ \r\n")
 currParent = None
 firstRun = True
 firstChild = True
-limitRows = 0;
+
 with open(inputFile + ".tsv", newline='') as tsvFile:
     fileReader = csv.DictReader(tsvFile, delimiter='\t')
-    for row in fileReader:
+    sortedData = sorted(fileReader, key=lambda row: row[parentCol], reverse=False)
+    for row in sortedData:
         if firstRun:
             outputFile.write("\t\"name\": \"" + row[categoryCol] + "\",\r\n")
             outputFile.write("\t\"children\": [\r\n" )
             outputFile.write("\t{\r\n")
         lastParent = currParent
         currParent = row[parentCol]
-        if limitRows < 80:
 
-            if currParent != lastParent:
-                if firstRun != True:
-                    outputFile.write("\r\n\t\t] \r\n\t }, \r\n\t { \r\n")
-                outputFile.write("\t\t\"name\": \"" + row[parentCol] + "\",\r\n")
-                outputFile.write("\t\t\"children\": [\r\n" )
-                lastParent = currParent
-                firstChild = True
-            if currParent == lastParent:
-                if firstChild != True:
-                    outputFile.write(",\r\n")
-                outputFile.write("\t\t\t{\"name\": \"" + row[childCol] + "\", \"size\": " + row[childCountCol] + "}")
-        limitRows += 1
+        if currParent != lastParent:
+            if firstRun != True:
+                outputFile.write("\r\n\t\t] \r\n\t }, \r\n\t { \r\n")
+            outputFile.write("\t\t\"name\": \"" + row[parentCol] + "\",\r\n")
+            outputFile.write("\t\t\"children\": [\r\n" )
+            lastParent = currParent
+            firstChild = True
+        if currParent == lastParent:
+            if firstChild != True:
+                outputFile.write(",\r\n")
+            outputFile.write("\t\t\t{\"name\": \"" + row[childCol] + "\", \"size\": " + row[childCountCol] + "}")
+
         firstRun = False
         firstChild = False
 
