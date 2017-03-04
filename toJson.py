@@ -1,22 +1,16 @@
 #==============================================================================#
 # This is a simple script to turn some TSV data into JSON for purposes of
 # creating a bilevel partition in D3.
-
-# The intended use is with an input file contains 18s data with
-# columns for the division name and the lowest classification name, with
-# RR counts for the lowest classifications.
-# The JSON output has the confidence level as the root, with division names
-# as the next level and lowest classifications & their counts as the leaves
-# Also sorts the data based on the parent column
 #
-# However, it can be used in a general case with any single level parent/child
-# relationship given counts on the children.
+# It writes a JSON file with a hierarchy given in the arguments
 #
-# Output is a json file with the same name as the tsv input file
+# IE Arg1 will have children Arg2, which will have children Arg 3
+#
+# Output is a json file with the same name as the input file
 #
 # Author: Stephanie Mason
 #==============================================================================#
-import sys, csv, operator
+import sys, csv
 
 #==============================================================================#
 # Main Program
@@ -47,7 +41,7 @@ currParent = None
 firstRun = True
 firstChild = True
 
-with open(inputFile + ".tsv", newline='') as tsvFile:
+with open(inputFile + ".csv", newline='') as tsvFile:
     fileReader = csv.DictReader(tsvFile, delimiter='\t')
     sortedData = sorted(fileReader, key=lambda row: row[parentCol], reverse=False)
     for row in sortedData:
