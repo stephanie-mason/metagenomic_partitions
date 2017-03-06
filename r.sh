@@ -1,2 +1,1 @@
-python3 toJson.py class_count_fuzzy placement_type division_name lowest_classification_name RR_count
-python3 toJson.py class_count_confident placement_type division_name lowest_classification_name RR_count
+python3 toJson.py all_data
