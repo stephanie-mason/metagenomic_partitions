@@ -12,27 +12,10 @@ import sys, csv, json
 
 # Input Variables
 inputFile = sys.argv[1]
-
-# New tactic: First build a set of dictionaries from the data,
-# iterating through it once
-# One for Date, one for Depth, one for Placement Type
-# This dictionary will have the keys that are values from the table
-# THEN !!!!
-# Make new output dictionaries that have "name" keys and list values from
-# your handy, descriptive key dictionaries
-# Dictionaries everywhere!!!
+hierarchyType = sys.argv[2]
 
 # Dictionaries
-# First Level Dicts
-placementDict = {}
-dateDict = {}
-depthDict = {}
-
-# Second Level Dict
-#divisionDict = {}
-
-# Third Level Dict
-#classDict = {}
+dataDict = {}
 
 with open(inputFile + ".csv", newline='') as tsvFile:
     fileReader = csv.DictReader(tsvFile, delimiter='\t')
@@ -44,29 +27,20 @@ with open(inputFile + ".csv", newline='') as tsvFile:
         currClass = row["lowest_classification_name"]
         currCount = int(row["RR_count"])
 
-        if currPlacement not in placementDict:
-            placementDict[currPlacement] = {}
+        if currPlacement not in dataDict:
+            dataDict[currPlacement] = {}
 
-        if currDivision not in placementDict[currPlacement]:
-            placementDict[currPlacement][currDivision] = {}
+        if currDivision not in dataDict[currPlacement]:
+            dataDict[currPlacement][currDivision] = {}
 
-        if currClass not in placementDict[currPlacement][currDivision]:
-            placementDict[currPlacement][currDivision][currClass] = currCount
+        if currClass not in dataDict[currPlacement][currDivision]:
+            dataDict[currPlacement][currDivision][currClass] = currCount
         else:
-            placementDict[currPlacement][currDivision][currClass] += currCount
+            dataDict[currPlacement][currDivision][currClass] += currCount
 
-        #placementDict[currPlacement] = divisionDict
-        #divisionDict[currDivision] = classDict
+print(dataDict["fuzzy"]["Alveolata"]["Dinophyceae"])
 
-        #if currClass in classDict:
-        #    placementDict[currPlacement][currDivision][currClass] += currCount
-        #else:
-        #    placementDict[currPlacement][currDivision][currClass] = currCount
-
-
-print(placementDict["fuzzy"]["Alveolata"]["Dinophyceae"])
-
-json_string = json.dumps(placementDict, indent=2)
+json_string = json.dumps(dataDict, indent=2)
 outputFile = "all_data.json"
 outputFile = open(outputFile, 'w')
 outputFile.write(json_string)
@@ -75,16 +49,16 @@ outputFile.close()
 # Write output dictionaries
 placementFinalDict = {"name": "placements", "children": []}
 
-iters = 0;
-for placement in placementDict:
+divIters = 0;
+for placement in dataDict:
     placementFinalDict["children"].append({"name": placement, "children": []})
-    for division in placementDict[placement]:
-        inneriters=0
-        placementFinalDict["children"][iters]["children"].append({"name": division, "children": []})
-        for className in placementDict[placement][division]:
-            placementFinalDict["children"][iters]["children"][inneriters]["children"].append({"name": className, "size": placementDict[placement][division][className]})
-        inneriters += 1
-    iters += 1
+    classIters=0
+    for division in dataDict[placement]:
+        placementFinalDict["children"][divIters]["children"].append({"name": division, "children": []})
+        for className in dataDict[placement][division]:
+            placementFinalDict["children"][divIters]["children"][classIters]["children"].append({"name": className, "size": dataDict[placement][division][className]})
+        classIters += 1
+    divIters += 1
 
 finalDict = placementFinalDict
 
