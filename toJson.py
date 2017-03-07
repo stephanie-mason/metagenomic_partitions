@@ -24,13 +24,23 @@ outputFile = inputFile + ".json"
 outputFile = open(outputFile, 'w')
 
 # Nested Dictionaries
-dataDict = {"willBeFuzzy": []}
+dataDict = {"name": "dates", "children": []}
 
 with open(inputFile + ".csv", newline='') as tsvFile:
     fileReader = csv.DictReader(tsvFile, delimiter='\t')
+    currPlacement = None
+    currDate = None
+    currDepth = None
     currDivision = None
+
+    currPlaceDict = None
+    currDateDict = None
+    currDepthDict = None
     currDivDict = None
     for row in fileReader:
+        prevPlacement = currPlacement
+        prevDate = currDate
+        prevDepth = currDepth
         prevDivision = currDivision
 
         currPlacement = row["placement_type"]
@@ -40,15 +50,22 @@ with open(inputFile + ".csv", newline='') as tsvFile:
         currClass = row["lowest_classification_name"]
         currCount = row["RR_count"]
 
-        # what happens when you get a new division.. lets see, you need to
-        # do something with the dictionary you have... you need to append it! here!
-        # then
-        # create a new dictionary
-        # with the "name": = currDivision
-        # children = []
+        # New Placement Type
+        #if currPlacement != prevPlacement:
+        #    currPlaceDict = {"name": currPlacement, "children": []}
+        #    dataDict["children"].append(currPlaceDict)
+
+        # New Date
+        if currDate != prevDate:
+            currDateDict = {"name": currDate, "children": []}
+            dataDict["children"].append(currDateDict)
+
+        # New depth in Date
+
+        # New Division
         if currDivision != prevDivision:
             if currDivDict != None:
-                dataDict["willBeFuzzy"].append(currDivDict)
+                currDateDict["children"].append(currDivDict)
             currDivDict = {"name": currDivision, "children": []}
 
         currDivDict["children"].append({"name": currClass, "size": currCount})
@@ -57,8 +74,7 @@ with open(inputFile + ".csv", newline='') as tsvFile:
 
 
 
-#json_string = json.dumps(dataDict, indent=4)
-json_string = json.dumps(dataDict, indent=4)
+json_string = json.dumps(dataDict, indent=2)
 print(json_string)
 outputFile.write(json_string)
 
