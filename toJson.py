@@ -12,7 +12,9 @@ import sys, csv, json
 
 # Input Variables
 inputFile = sys.argv[1]
-hierarchyType = sys.argv[2]
+highestLevel = sys.argv[2]
+# For the future:
+# need to add more variables so that there can be as many levels as needed
 
 # Dictionaries
 dataDict = {}
@@ -20,12 +22,16 @@ dataDict = {}
 with open(inputFile + ".csv", newline='') as tsvFile:
     fileReader = csv.DictReader(tsvFile, delimiter='\t')
     for row in fileReader:
-        currPlacement = row["placement_type"]
-        #currDate = row["date"]
-        #currDepth = row["sample_depth"]
+        currPlacement = row[highestLevel]
         currDivision = row["division_name"]
         currClass = row["lowest_classification_name"]
         currCount = int(row["RR_count"])
+
+        # Future development: Rather than manually nesting these, need to create
+        # some kind of recursive call so that it can work for any number of
+        # levels
+
+        # Also update variable names to reflect this...
 
         if currPlacement not in dataDict:
             dataDict[currPlacement] = {}
@@ -38,19 +44,13 @@ with open(inputFile + ".csv", newline='') as tsvFile:
         else:
             dataDict[currPlacement][currDivision][currClass] += currCount
 
-print(dataDict["fuzzy"]["Alveolata"]["Dinophyceae"])
-
-json_string = json.dumps(dataDict, indent=2)
-outputFile = "all_data.json"
-outputFile = open(outputFile, 'w')
-outputFile.write(json_string)
-outputFile.close()
-
-# Write output dictionaries
+# Output dictionaries have a different format
 placementFinalDict = {"name": "placements", "children": []}
 
 divIters = 0;
 for placement in dataDict:
+    # Obviously in the future this will also be recursive so that it can go
+    # down as many levels as is needed...
     placementFinalDict["children"].append({"name": placement, "children": []})
     classIters=0
     for division in dataDict[placement]:
@@ -60,15 +60,9 @@ for placement in dataDict:
         classIters += 1
     divIters += 1
 
-finalDict = placementFinalDict
-
-json_string = json.dumps(finalDict, indent=2)
-#print(json_string)
-
-# Outputs
-outputFiles = ["placement_sorted.json", "date_sorted.json", "depth_sorted.json"]
-
-for outputFile in outputFiles:
-    outputFile = open(outputFile, 'w')
-    outputFile.write(json_string)
-    outputFile.close()
+# Create the JSON String and write it to file
+json_string = json.dumps(placementFinalDict, indent=2)
+outputFile = highestLevel + ".json"
+outputFile = open(outputFile, 'w')
+outputFile.write(json_string)
+outputFile.close()

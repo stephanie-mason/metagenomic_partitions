@@ -1,0 +1,4254 @@
+{
+  "name": "placements",
+  "children": [
+    {
+      "name": "CM",
+      "children": [
+        {
+          "name": "Alveolata",
+          "children": [
+            {
+              "name": "Dinophyceae",
+              "size": 109571
+            },
+            {
+              "name": "Gymnodiniales",
+              "size": 116554
+            },
+            {
+              "name": "Peridiniales",
+              "size": 169214
+            },
+            {
+              "name": "Protoperidinium",
+              "size": 3061
+            },
+            {
+              "name": "Syndiniales",
+              "size": 4116
+            },
+            {
+              "name": "Strombidiidae",
+              "size": 3841
+            },
+            {
+              "name": "Polykrikaceae",
+              "size": 104175
+            },
+            {
+              "name": "environmental samples",
+              "size": 19019
+            },
+            {
+              "name": "Armophorida",
+              "size": 64
+            },
+            {
+              "name": "Choreotrichia",
+              "size": 793
+            },
+            {
+              "name": "Prorodontida",
+              "size": 295
+            },
+            {
+              "name": "Spirotrichea",
+              "size": 446
+            },
+            {
+              "name": "Tintinnopsis",
+              "size": 2722
+            },
+            {
+              "name": "Trichostomatia",
+              "size": 2310
+            },
+            {
+              "name": "Amoebophrya",
+              "size": 6425
+            },
+            {
+              "name": "Archaeperidinium",
+              "size": 4
+            },
+            {
+              "name": "Alveolata",
+              "size": 37
+            },
+            {
+              "name": "Intramacronucleata",
+              "size": 20
+            },
+            {
+              "name": "Tintinnida",
+              "size": 437
+            },
+            {
+              "name": "Eugregarinorida",
+              "size": 141
+            },
+            {
+              "name": "Gregarinasina",
+              "size": 15
+            },
+            {
+              "name": "Piroplasmida",
+              "size": 42
+            },
+            {
+              "name": "Philasterida",
+              "size": 58
+            },
+            {
+              "name": "Strombidinopsis",
+              "size": 265
+            },
+            {
+              "name": "Peritrichia",
+              "size": 54
+            },
+            {
+              "name": "Oligotrichia",
+              "size": 12
+            },
+            {
+              "name": "Scuticociliatia",
+              "size": 76
+            },
+            {
+              "name": "Oligohymenophorea",
+              "size": 74
+            },
+            {
+              "name": "Tontoniidae",
+              "size": 161
+            },
+            {
+              "name": "Eimeriorina",
+              "size": 12
+            },
+            {
+              "name": "Euplotida",
+              "size": 11
+            },
+            {
+              "name": "Holostichidae",
+              "size": 14
+            },
+            {
+              "name": "Strombidium",
+              "size": 2797
+            },
+            {
+              "name": "Dysteriidae",
+              "size": 2
+            },
+            {
+              "name": "Coccidia",
+              "size": 17
+            },
+            {
+              "name": "Polykrikos",
+              "size": 20
+            },
+            {
+              "name": "Haptoria",
+              "size": 122
+            },
+            {
+              "name": "_SUctoria",
+              "size": 9
+            },
+            {
+              "name": "Aconoidasida",
+              "size": 9
+            },
+            {
+              "name": "Eucoccidiorida",
+              "size": 3
+            },
+            {
+              "name": "unclassified Babesia",
+              "size": 2
+            },
+            {
+              "name": "Dysteria",
+              "size": 20
+            },
+            {
+              "name": "Favella",
+              "size": 2
+            },
+            {
+              "name": "Phyllopharyngea",
+              "size": 7
+            }
+          ]
+        },
+        {
+          "name": "Opisthokonta",
+          "children": [
+            {
+              "name": "Calanoida",
+              "size": 310638
+            },
+            {
+              "name": "Calcaxonia",
+              "size": 15405
+            },
+            {
+              "name": "Nemertodermatidae",
+              "size": 2700
+            },
+            {
+              "name": "Fungi",
+              "size": 227
+            },
+            {
+              "name": "Bivalvia",
+              "size": 189
+            },
+            {
+              "name": "Macoma",
+              "size": 13100
+            },
+            {
+              "name": "Ophiuridea",
+              "size": 52
+            },
+            {
+              "name": "Peloderinae",
+              "size": 35
+            },
+            {
+              "name": "Pseudodiaptomidae",
+              "size": 102
+            },
+            {
+              "name": "Tellinidae",
+              "size": 400
+            },
+            {
+              "name": "Teredinidae",
+              "size": 168
+            },
+            {
+              "name": "Typhlocoela",
+              "size": 4821
+            },
+            {
+              "name": "Unguiphora",
+              "size": 154
+            },
+            {
+              "name": "Veneroida",
+              "size": 1299
+            },
+            {
+              "name": "Amphisphaeriaceae",
+              "size": 2
+            },
+            {
+              "name": "Ctenophora",
+              "size": 3
+            },
+            {
+              "name": "Nanopsocetae",
+              "size": 2
+            },
+            {
+              "name": "Cyclopoida",
+              "size": 3058
+            },
+            {
+              "name": "Pteronyssidae",
+              "size": 62
+            },
+            {
+              "name": "Actiniidae",
+              "size": 560
+            },
+            {
+              "name": "Podoplea",
+              "size": 7482
+            },
+            {
+              "name": "Sordariomycetidae",
+              "size": 140
+            },
+            {
+              "name": "Brachiopoda",
+              "size": 48
+            },
+            {
+              "name": "Capitellida",
+              "size": 8
+            },
+            {
+              "name": "Celleporina",
+              "size": 429
+            },
+            {
+              "name": "Echiura",
+              "size": 201
+            },
+            {
+              "name": "Eumetazoa",
+              "size": 632
+            },
+            {
+              "name": "Heteroconchia",
+              "size": 401
+            },
+            {
+              "name": "Lophotrochozoa",
+              "size": 80
+            },
+            {
+              "name": "Mollusca",
+              "size": 18
+            },
+            {
+              "name": "Pectinidae",
+              "size": 2
+            },
+            {
+              "name": "Pectinoidea",
+              "size": 185
+            },
+            {
+              "name": "Phyllodocida",
+              "size": 15856
+            },
+            {
+              "name": "Polynoidae",
+              "size": 432
+            },
+            {
+              "name": "Porifera",
+              "size": 22
+            },
+            {
+              "name": "Pteriomorphia",
+              "size": 90
+            },
+            {
+              "name": "Sabellida",
+              "size": 1146
+            },
+            {
+              "name": "Trochidae",
+              "size": 5
+            },
+            {
+              "name": "Buellia",
+              "size": 2
+            },
+            {
+              "name": "Capnodiales",
+              "size": 2
+            },
+            {
+              "name": "Saccharomycetaceae",
+              "size": 8
+            },
+            {
+              "name": "Verrucaria",
+              "size": 7
+            },
+            {
+              "name": "mitosporic Saccharomycetales",
+              "size": 22
+            },
+            {
+              "name": "Centropages",
+              "size": 207
+            },
+            {
+              "name": "Cerebratulus",
+              "size": 546
+            },
+            {
+              "name": "Eupulmonata",
+              "size": 615
+            },
+            {
+              "name": "Geophilidae",
+              "size": 6
+            },
+            {
+              "name": "Heteronemertea",
+              "size": 80
+            },
+            {
+              "name": "Leucophoropterini",
+              "size": 2
+            },
+            {
+              "name": "Lucinoidea",
+              "size": 64
+            },
+            {
+              "name": "Micrura",
+              "size": 15
+            },
+            {
+              "name": "Sacoglossa",
+              "size": 50
+            },
+            {
+              "name": "Sarcoptoidea",
+              "size": 7
+            },
+            {
+              "name": "Stylommatophora",
+              "size": 75
+            },
+            {
+              "name": "Tritonia",
+              "size": 4
+            },
+            {
+              "name": "Calcarea",
+              "size": 213
+            },
+            {
+              "name": "Entoprocta",
+              "size": 40
+            },
+            {
+              "name": "Lepidodasyidae",
+              "size": 12
+            },
+            {
+              "name": "Mytilicolidae",
+              "size": 1437
+            },
+            {
+              "name": "Panpulmonata",
+              "size": 46331
+            },
+            {
+              "name": "Sigmurethra",
+              "size": 930
+            },
+            {
+              "name": "Spionidae",
+              "size": 2840
+            },
+            {
+              "name": "Cantharellales",
+              "size": 5
+            },
+            {
+              "name": "Aciculata",
+              "size": 43
+            },
+            {
+              "name": "Acoelomorpha",
+              "size": 69
+            },
+            {
+              "name": "Ampharetidae",
+              "size": 91
+            },
+            {
+              "name": "Amphisamytha",
+              "size": 12
+            },
+            {
+              "name": "Annelida",
+              "size": 284
+            },
+            {
+              "name": "Arca",
+              "size": 36
+            },
+            {
+              "name": "Ausejanus",
+              "size": 29
+            },
+            {
+              "name": "Campanulariidae",
+              "size": 1208
+            },
+            {
+              "name": "Chrysopetalidae",
+              "size": 107
+            },
+            {
+              "name": "Dorvilleidae",
+              "size": 131
+            },
+            {
+              "name": "Geoplanidae",
+              "size": 362
+            },
+            {
+              "name": "Hesionidae",
+              "size": 13594
+            },
+            {
+              "name": "Hexacorallia",
+              "size": 5
+            },
+            {
+              "name": "Hydroidolina",
+              "size": 73
+            },
+            {
+              "name": "Hydrozoa",
+              "size": 774
+            },
+            {
+              "name": "Magelona",
+              "size": 9
+            },
+            {
+              "name": "Nematoplana",
+              "size": 297
+            },
+            {
+              "name": "Nereididae",
+              "size": 2546
+            },
+            {
+              "name": "Nudibranchia",
+              "size": 727
+            },
+            {
+              "name": "Olindiidae",
+              "size": 175
+            },
+            {
+              "name": "Pelodera",
+              "size": 62
+            },
+            {
+              "name": "Scolecida",
+              "size": 59
+            },
+            {
+              "name": "Siphonostomatoida",
+              "size": 516
+            },
+            {
+              "name": "Tubificidae",
+              "size": 17
+            },
+            {
+              "name": "Opisthokonta",
+              "size": 78
+            },
+            {
+              "name": "Ichthyosporea",
+              "size": 70
+            },
+            {
+              "name": "Ascidiacea",
+              "size": 1486
+            },
+            {
+              "name": "Chordata",
+              "size": 149
+            },
+            {
+              "name": "Euopisthobranchia",
+              "size": 357
+            },
+            {
+              "name": "Euthyneura",
+              "size": 110
+            },
+            {
+              "name": "Macrodasyida",
+              "size": 12
+            },
+            {
+              "name": "Oxynooidea",
+              "size": 78
+            },
+            {
+              "name": "Placobranchidae",
+              "size": 2
+            },
+            {
+              "name": "Montacutidae",
+              "size": 1244
+            },
+            {
+              "name": "Tremellaceae",
+              "size": 9
+            },
+            {
+              "name": "Pan",
+              "size": 2
+            },
+            {
+              "name": "Pontellidae",
+              "size": 43
+            },
+            {
+              "name": "Pterolichoidea",
+              "size": 6
+            },
+            {
+              "name": "Sabellidae",
+              "size": 3
+            },
+            {
+              "name": "Thecostraca",
+              "size": 78
+            },
+            {
+              "name": "Demospongiae",
+              "size": 4
+            },
+            {
+              "name": "Eunicida",
+              "size": 117
+            },
+            {
+              "name": "Flustrina",
+              "size": 6
+            },
+            {
+              "name": "Haplosclerida",
+              "size": 8
+            },
+            {
+              "name": "Spionida",
+              "size": 206
+            },
+            {
+              "name": "Dermestidae",
+              "size": 2
+            },
+            {
+              "name": "Psocomorpha",
+              "size": 2
+            },
+            {
+              "name": "Gyptis",
+              "size": 8
+            },
+            {
+              "name": "lower Heterobranchia",
+              "size": 8
+            },
+            {
+              "name": "Opisthokonta incertae sedis",
+              "size": 640
+            },
+            {
+              "name": "Arcidae",
+              "size": 32
+            },
+            {
+              "name": "Ennucula",
+              "size": 209
+            },
+            {
+              "name": "Gastropoda",
+              "size": 38
+            },
+            {
+              "name": "Marphysa",
+              "size": 72
+            },
+            {
+              "name": "Polychaeta",
+              "size": 8
+            },
+            {
+              "name": "Pterioida",
+              "size": 35
+            },
+            {
+              "name": "Trichuris",
+              "size": 2
+            },
+            {
+              "name": "Asteriidae",
+              "size": 63
+            },
+            {
+              "name": "Oweniidae",
+              "size": 1656
+            },
+            {
+              "name": "Peracarida",
+              "size": 5
+            },
+            {
+              "name": "Ploima",
+              "size": 826
+            },
+            {
+              "name": "Rotifera",
+              "size": 28
+            },
+            {
+              "name": "Sigalionidae",
+              "size": 47
+            },
+            {
+              "name": "Spirobolida",
+              "size": 5
+            },
+            {
+              "name": "Alcyonidiidae",
+              "size": 80
+            },
+            {
+              "name": "Asterozoa",
+              "size": 6
+            },
+            {
+              "name": "Diadematacea",
+              "size": 2
+            },
+            {
+              "name": "Glycinde",
+              "size": 2
+            },
+            {
+              "name": "Gnathophiurina",
+              "size": 2
+            },
+            {
+              "name": "Leptothecata",
+              "size": 450
+            },
+            {
+              "name": "Mactridae",
+              "size": 35
+            },
+            {
+              "name": "Malacostraca",
+              "size": 15
+            },
+            {
+              "name": "Megadasys",
+              "size": 290
+            },
+            {
+              "name": "Mytilinae",
+              "size": 908
+            },
+            {
+              "name": "Proctophyllodidae",
+              "size": 621
+            },
+            {
+              "name": "Veneroidea",
+              "size": 1068
+            },
+            {
+              "name": "Nucleariidae and Fonticula group",
+              "size": 27
+            },
+            {
+              "name": "Pleosporales",
+              "size": 2
+            },
+            {
+              "name": "mitosporic Ascomycota",
+              "size": 11
+            },
+            {
+              "name": "Cardioidea",
+              "size": 14
+            },
+            {
+              "name": "Monstrilla",
+              "size": 27
+            },
+            {
+              "name": "Sphaerotheriidae",
+              "size": 6
+            },
+            {
+              "name": "Tricladida",
+              "size": 8
+            },
+            {
+              "name": "Donax",
+              "size": 624
+            },
+            {
+              "name": "Phaffomycetaceae",
+              "size": 11
+            },
+            {
+              "name": "Scalidophora",
+              "size": 7
+            },
+            {
+              "name": "Sertulariidae",
+              "size": 3
+            },
+            {
+              "name": "Sternorrhyncha",
+              "size": 29
+            },
+            {
+              "name": "Terebellidae",
+              "size": 16
+            },
+            {
+              "name": "Actiniaria",
+              "size": 6
+            },
+            {
+              "name": "Bryozoa",
+              "size": 14
+            },
+            {
+              "name": "Electra",
+              "size": 5
+            },
+            {
+              "name": "Enchytraeidae",
+              "size": 2
+            },
+            {
+              "name": "Geophilomorpha",
+              "size": 6
+            },
+            {
+              "name": "Lepraliomorpha",
+              "size": 54
+            },
+            {
+              "name": "Lithophaginae",
+              "size": 71
+            },
+            {
+              "name": "Maldanidae",
+              "size": 4
+            },
+            {
+              "name": "Megascolecidae",
+              "size": 5
+            },
+            {
+              "name": "Xanthoidea",
+              "size": 2
+            },
+            {
+              "name": "Candida",
+              "size": 127
+            },
+            {
+              "name": "Pichiaceae",
+              "size": 2
+            },
+            {
+              "name": "Capitella",
+              "size": 8
+            },
+            {
+              "name": "Cardiidae",
+              "size": 254
+            },
+            {
+              "name": "Himantariidae",
+              "size": 3
+            },
+            {
+              "name": "Lineidae",
+              "size": 5
+            },
+            {
+              "name": "Monocelididae",
+              "size": 2
+            },
+            {
+              "name": "Nemertea",
+              "size": 2
+            },
+            {
+              "name": "Neogastropoda",
+              "size": 2
+            },
+            {
+              "name": "Rhynchonellata",
+              "size": 29
+            },
+            {
+              "name": "Tellinoidea",
+              "size": 2
+            },
+            {
+              "name": "Diaporthales",
+              "size": 2
+            },
+            {
+              "name": "Buguloidea",
+              "size": 12
+            },
+            {
+              "name": "Goniadidae",
+              "size": 2
+            },
+            {
+              "name": "Parasitengona",
+              "size": 12
+            },
+            {
+              "name": "Poecilostomatoida",
+              "size": 34
+            },
+            {
+              "name": "Serpulidae",
+              "size": 69
+            },
+            {
+              "name": "Agaricales",
+              "size": 2
+            },
+            {
+              "name": "Dacrymycetales",
+              "size": 2
+            },
+            {
+              "name": "Ustilaginomycetes",
+              "size": 11
+            },
+            {
+              "name": "Cyclostomata",
+              "size": 3
+            },
+            {
+              "name": "Erpobdelliformes",
+              "size": 4
+            },
+            {
+              "name": "Harpacticoida",
+              "size": 95
+            },
+            {
+              "name": "Hebellidae",
+              "size": 5
+            },
+            {
+              "name": "Membranipora",
+              "size": 135
+            },
+            {
+              "name": "Microlaimidae",
+              "size": 2
+            },
+            {
+              "name": "Myoida",
+              "size": 68
+            },
+            {
+              "name": "Mytilidae",
+              "size": 9
+            },
+            {
+              "name": "Nuculidae",
+              "size": 5
+            },
+            {
+              "name": "Octocorallia",
+              "size": 2
+            },
+            {
+              "name": "Otomorpha",
+              "size": 2
+            },
+            {
+              "name": "Paucitubulatina",
+              "size": 10
+            },
+            {
+              "name": "Pleurotomarioidea",
+              "size": 9
+            },
+            {
+              "name": "Polycladida",
+              "size": 2
+            },
+            {
+              "name": "Pristina",
+              "size": 3
+            },
+            {
+              "name": "Protobranchia",
+              "size": 4
+            },
+            {
+              "name": "Pseudodiaptomus",
+              "size": 10
+            },
+            {
+              "name": "Siboglinidae",
+              "size": 2
+            },
+            {
+              "name": "Siphonosoma",
+              "size": 2
+            },
+            {
+              "name": "Terebellida",
+              "size": 9
+            },
+            {
+              "name": "Trochoidea",
+              "size": 35
+            },
+            {
+              "name": "Tubiluchidae",
+              "size": 2
+            },
+            {
+              "name": "Chromadoridae",
+              "size": 12
+            },
+            {
+              "name": "Panarthropoda",
+              "size": 3
+            },
+            {
+              "name": "Galeomma",
+              "size": 5
+            },
+            {
+              "name": "Serpula",
+              "size": 4
+            },
+            {
+              "name": "Sessilia",
+              "size": 2
+            },
+            {
+              "name": "Dendrochirotida",
+              "size": 3
+            },
+            {
+              "name": "Laonice",
+              "size": 45
+            },
+            {
+              "name": "Tremellomycetes",
+              "size": 5
+            },
+            {
+              "name": "Acari",
+              "size": 3
+            },
+            {
+              "name": "Primates",
+              "size": 27
+            },
+            {
+              "name": "Scalpellidae",
+              "size": 38
+            },
+            {
+              "name": "Desmodorida",
+              "size": 21
+            },
+            {
+              "name": "Mesozoa",
+              "size": 6
+            },
+            {
+              "name": "Oxystominidae",
+              "size": 2
+            },
+            {
+              "name": "Sthenelais",
+              "size": 5
+            },
+            {
+              "name": "Myodocopa",
+              "size": 4
+            },
+            {
+              "name": "Pseudomonocelis",
+              "size": 2
+            },
+            {
+              "name": "Unionoida",
+              "size": 4
+            },
+            {
+              "name": "Dorididae",
+              "size": 2
+            },
+            {
+              "name": "Onchidorididae",
+              "size": 13
+            },
+            {
+              "name": "Smittinidae",
+              "size": 5
+            },
+            {
+              "name": "Syllidae",
+              "size": 2
+            },
+            {
+              "name": "Pholadidae",
+              "size": 2
+            },
+            {
+              "name": "Zygentoma",
+              "size": 2
+            }
+          ]
+        },
+        {
+          "name": "Stramenopiles",
+          "children": [
+            {
+              "name": "Biddulphiaceae",
+              "size": 9738
+            },
+            {
+              "name": "Biddulphiophycidae",
+              "size": 1634
+            },
+            {
+              "name": "Thalassiosiraceae",
+              "size": 21431
+            },
+            {
+              "name": "Stramenopiles",
+              "size": 5798
+            },
+            {
+              "name": "Synurophyceae",
+              "size": 578
+            },
+            {
+              "name": "Bacillariophyta",
+              "size": 8286
+            },
+            {
+              "name": "Biddulphia",
+              "size": 6622
+            },
+            {
+              "name": "Coscinodiscophyceae",
+              "size": 3598
+            },
+            {
+              "name": "Diatoma",
+              "size": 26
+            },
+            {
+              "name": "unclassified Thraustochytriidae",
+              "size": 1156
+            },
+            {
+              "name": "unclassified Thraustochytrium",
+              "size": 288
+            },
+            {
+              "name": "Lithodesmiaceae",
+              "size": 34
+            },
+            {
+              "name": "Spumella",
+              "size": 155
+            },
+            {
+              "name": "unclassified Spumella",
+              "size": 66
+            },
+            {
+              "name": "Bacillariophycidae",
+              "size": 1659
+            },
+            {
+              "name": "Coscinodiscales",
+              "size": 664
+            },
+            {
+              "name": "Chromulinaceae",
+              "size": 83
+            },
+            {
+              "name": "Spumella-like flagellate JB",
+              "size": 181
+            },
+            {
+              "name": "Mischococcales",
+              "size": 16477
+            },
+            {
+              "name": "Ditylum",
+              "size": 187
+            },
+            {
+              "name": "Bacillariophyceae",
+              "size": 4
+            },
+            {
+              "name": "Chromulinales",
+              "size": 38
+            },
+            {
+              "name": "Actinoptychus",
+              "size": 163
+            },
+            {
+              "name": "Triceratiaceae",
+              "size": 659
+            },
+            {
+              "name": "unclassified Chrysophyceae",
+              "size": 43
+            },
+            {
+              "name": "Labyrinthulomycetes",
+              "size": 3029
+            },
+            {
+              "name": "Fragilariaceae",
+              "size": 4
+            },
+            {
+              "name": "Dictyochophyceae",
+              "size": 23228
+            },
+            {
+              "name": "Thraustochytriaceae",
+              "size": 926
+            },
+            {
+              "name": "Porosira",
+              "size": 4
+            },
+            {
+              "name": "Triceratium",
+              "size": 22
+            },
+            {
+              "name": "Bicosoecida",
+              "size": 52
+            },
+            {
+              "name": "Aurantiochytrium",
+              "size": 29
+            },
+            {
+              "name": "PX clade",
+              "size": 13
+            },
+            {
+              "name": "Phaeophyceae",
+              "size": 12
+            },
+            {
+              "name": "Sargas_SUm",
+              "size": 7
+            },
+            {
+              "name": "Pelagomonadales",
+              "size": 2
+            }
+          ]
+        },
+        {
+          "name": "Amoebozoa",
+          "children": [
+            {
+              "name": "Discosea",
+              "size": 30
+            },
+            {
+              "name": "Stemonitis",
+              "size": 162
+            },
+            {
+              "name": "Tubulinida",
+              "size": 14
+            },
+            {
+              "name": "Stemonitidae",
+              "size": 17
+            },
+            {
+              "name": "Acanthamoeba",
+              "size": 96
+            },
+            {
+              "name": "Euamoebida",
+              "size": 4
+            },
+            {
+              "name": "Amoebozoa",
+              "size": 13
+            }
+          ]
+        },
+        {
+          "name": "Cryptophyta",
+          "children": [
+            {
+              "name": "Cryptomonadaceae",
+              "size": 717
+            },
+            {
+              "name": "unclassified Cryptophyta",
+              "size": 185
+            },
+            {
+              "name": "Pyrenomonadaceae",
+              "size": 1549
+            },
+            {
+              "name": "Rhodomonas",
+              "size": 214
+            },
+            {
+              "name": "Cryptophyta",
+              "size": 136
+            },
+            {
+              "name": "Pyrenomonadales",
+              "size": 8
+            },
+            {
+              "name": "Cryptomonadales",
+              "size": 2
+            },
+            {
+              "name": "Goniomonas",
+              "size": 2
+            }
+          ]
+        },
+        {
+          "name": "Rhizaria",
+          "children": [
+            {
+              "name": "Cercomonadida",
+              "size": 1172
+            },
+            {
+              "name": "Cercomonadidae",
+              "size": 873
+            },
+            {
+              "name": "Protaspis",
+              "size": 314
+            },
+            {
+              "name": "Silicofilosea",
+              "size": 3175
+            },
+            {
+              "name": "Cercozoa",
+              "size": 325
+            },
+            {
+              "name": "Euglyphidae",
+              "size": 12
+            },
+            {
+              "name": "Lotharella",
+              "size": 98
+            },
+            {
+              "name": "Rhizaria",
+              "size": 81
+            },
+            {
+              "name": "unclassified Cercozoa",
+              "size": 352
+            },
+            {
+              "name": "Chlorarachniophyceae",
+              "size": 52
+            },
+            {
+              "name": "Paracercomonas",
+              "size": 34
+            },
+            {
+              "name": "Polycystinea",
+              "size": 150
+            },
+            {
+              "name": "Plasmodiophoridae",
+              "size": 2
+            }
+          ]
+        },
+        {
+          "name": "Viridiplantae",
+          "children": [
+            {
+              "name": "Chlorella",
+              "size": 3769
+            },
+            {
+              "name": "Mamiellophyceae",
+              "size": 4821
+            },
+            {
+              "name": "Microthamniales",
+              "size": 90
+            },
+            {
+              "name": "Ulvella",
+              "size": 159
+            },
+            {
+              "name": "Arachis",
+              "size": 391
+            },
+            {
+              "name": "Klebsormidiales",
+              "size": 163
+            },
+            {
+              "name": "environmental samples",
+              "size": 239
+            },
+            {
+              "name": "prasinophytes",
+              "size": 3657
+            },
+            {
+              "name": "Dalbergieae",
+              "size": 252
+            },
+            {
+              "name": "Chlamydomonadaceae",
+              "size": 199
+            },
+            {
+              "name": "Chlamydomonadales",
+              "size": 40
+            },
+            {
+              "name": "Monomastix",
+              "size": 7
+            },
+            {
+              "name": "Scenedesmaceae",
+              "size": 12
+            },
+            {
+              "name": "Chlorellaceae",
+              "size": 283
+            },
+            {
+              "name": "unclassified Chlorophyceae",
+              "size": 6
+            },
+            {
+              "name": "Pyramimonas",
+              "size": 513
+            },
+            {
+              "name": "unclassified Chlamydomonadaceae",
+              "size": 234
+            },
+            {
+              "name": "Prasiolaceae",
+              "size": 2
+            },
+            {
+              "name": "Trebouxia",
+              "size": 336
+            },
+            {
+              "name": "Chlorosarcinales",
+              "size": 77
+            },
+            {
+              "name": "Desmidiales",
+              "size": 31
+            },
+            {
+              "name": "Chlorophyta",
+              "size": 34
+            },
+            {
+              "name": "Pterosperma",
+              "size": 102
+            },
+            {
+              "name": "Streptophytina",
+              "size": 2
+            },
+            {
+              "name": "Zygnemophyceae",
+              "size": 2
+            },
+            {
+              "name": "Desmodesmus",
+              "size": 3
+            },
+            {
+              "name": "Trebouxiophyceae incertae sedis",
+              "size": 6
+            },
+            {
+              "name": "Euastrum",
+              "size": 19
+            },
+            {
+              "name": "Pinidae",
+              "size": 20
+            },
+            {
+              "name": "Chlorophyceae",
+              "size": 9
+            },
+            {
+              "name": "Prasiola",
+              "size": 12
+            },
+            {
+              "name": "Desmidiaceae",
+              "size": 2
+            },
+            {
+              "name": "Chlorellales",
+              "size": 6
+            },
+            {
+              "name": "Papilionoideae",
+              "size": 2
+            }
+          ]
+        },
+        {
+          "name": "environmental samples",
+          "children": [
+            {
+              "name": "named eukaryotic clones",
+              "size": 3112
+            }
+          ]
+        },
+        {
+          "name": "Rhodophyta",
+          "children": [
+            {
+              "name": "Rhodomelaceae",
+              "size": 4
+            },
+            {
+              "name": "unclassified Neosiphonia",
+              "size": 5
+            },
+            {
+              "name": "Audouinella",
+              "size": 3
+            },
+            {
+              "name": "Gigartinales",
+              "size": 33
+            }
+          ]
+        },
+        {
+          "name": "NO MATCH",
+          "children": [
+            {
+              "name": "Eukaryota",
+              "size": 117
+            },
+            {
+              "name": "root",
+              "size": 12
+            },
+            {
+              "name": "DELETED NODE",
+              "size": 82
+            }
+          ]
+        },
+        {
+          "name": "Glaucocystophyceae",
+          "children": [
+            {
+              "name": "Glaucocystophyceae",
+              "size": 5
+            }
+          ]
+        },
+        {
+          "name": "Euglenozoa",
+          "children": [
+            {
+              "name": "Euglenozoa",
+              "size": 4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "DP",
+      "children": [
+        {
+          "name": "Alveolata",
+          "children": [
+            {
+              "name": "Piroplasmida",
+              "size": 248
+            },
+            {
+              "name": "Intramacronucleata",
+              "size": 72
+            },
+            {
+              "name": "Spirotrichea",
+              "size": 2211
+            },
+            {
+              "name": "Strombidiidae",
+              "size": 19700
+            },
+            {
+              "name": "Tintinnopsis",
+              "size": 9801
+            },
+            {
+              "name": "Dinophyceae",
+              "size": 123545
+            },
+            {
+              "name": "Gymnodiniales",
+              "size": 156413
+            },
+            {
+              "name": "Peridiniales",
+              "size": 162800
+            },
+            {
+              "name": "Polykrikaceae",
+              "size": 44631
+            },
+            {
+              "name": "Protoperidinium",
+              "size": 4696
+            },
+            {
+              "name": "Syndiniales",
+              "size": 47573
+            },
+            {
+              "name": "environmental samples",
+              "size": 100362
+            },
+            {
+              "name": "Choreotrichia",
+              "size": 1754
+            },
+            {
+              "name": "Strombidinopsis",
+              "size": 1550
+            },
+            {
+              "name": "Amoebophrya",
+              "size": 77620
+            },
+            {
+              "name": "Eimeria",
+              "size": 40
+            },
+            {
+              "name": "Prorodontida",
+              "size": 1276
+            },
+            {
+              "name": "Scuticociliatia",
+              "size": 3010
+            },
+            {
+              "name": "Trichostomatia",
+              "size": 10013
+            },
+            {
+              "name": "Tintinnida",
+              "size": 1084
+            },
+            {
+              "name": "Holostichidae",
+              "size": 79
+            },
+            {
+              "name": "Oligohymenophorea",
+              "size": 356
+            },
+            {
+              "name": "Paratetrahymena",
+              "size": 2
+            },
+            {
+              "name": "Alveolata",
+              "size": 93
+            },
+            {
+              "name": "Favella",
+              "size": 13
+            },
+            {
+              "name": "Philasterida",
+              "size": 815
+            },
+            {
+              "name": "Armophorida",
+              "size": 125
+            },
+            {
+              "name": "Eugregarinorida",
+              "size": 54
+            },
+            {
+              "name": "Phyllopharyngea",
+              "size": 36
+            },
+            {
+              "name": "Heterotrichea",
+              "size": 36
+            },
+            {
+              "name": "Polykrikos",
+              "size": 27
+            },
+            {
+              "name": "Aconoidasida",
+              "size": 45
+            },
+            {
+              "name": "Tontoniidae",
+              "size": 71
+            },
+            {
+              "name": "Sarcocystidae",
+              "size": 2
+            },
+            {
+              "name": "Euplotida",
+              "size": 33
+            },
+            {
+              "name": "Haptoria",
+              "size": 254
+            },
+            {
+              "name": "Eimeriorina",
+              "size": 92
+            },
+            {
+              "name": "Oligotrichia",
+              "size": 29
+            },
+            {
+              "name": "Peritrichia",
+              "size": 101
+            },
+            {
+              "name": "Strombidium",
+              "size": 112
+            },
+            {
+              "name": "Gregarinasina",
+              "size": 5
+            },
+            {
+              "name": "unclassified Babesia",
+              "size": 13
+            },
+            {
+              "name": "_SUctoria",
+              "size": 9
+            },
+            {
+              "name": "Nassophorea",
+              "size": 2
+            },
+            {
+              "name": "Opisthonectidae",
+              "size": 2
+            }
+          ]
+        },
+        {
+          "name": "Amoebozoa",
+          "children": [
+            {
+              "name": "Stemonitis",
+              "size": 593
+            },
+            {
+              "name": "Tubulinida",
+              "size": 27
+            },
+            {
+              "name": "Acanthamoeba",
+              "size": 979
+            },
+            {
+              "name": "Discosea",
+              "size": 93
+            },
+            {
+              "name": "Amoebozoa",
+              "size": 479
+            },
+            {
+              "name": "Stemonitidae",
+              "size": 27
+            },
+            {
+              "name": "Euamoebida",
+              "size": 16
+            }
+          ]
+        },
+        {
+          "name": "Opisthokonta",
+          "children": [
+            {
+              "name": "Sordariomycetidae",
+              "size": 806
+            },
+            {
+              "name": "Aciculata",
+              "size": 23
+            },
+            {
+              "name": "Ampharetidae",
+              "size": 16
+            },
+            {
+              "name": "Anopla",
+              "size": 16
+            },
+            {
+              "name": "Calanoida",
+              "size": 366168
+            },
+            {
+              "name": "Calcaxonia",
+              "size": 51749
+            },
+            {
+              "name": "Cyclopoida",
+              "size": 23333
+            },
+            {
+              "name": "Hesionidae",
+              "size": 7643
+            },
+            {
+              "name": "Lepraliomorpha",
+              "size": 72
+            },
+            {
+              "name": "Neritoidea",
+              "size": 2
+            },
+            {
+              "name": "Phyllodocida",
+              "size": 10190
+            },
+            {
+              "name": "Unguiphora",
+              "size": 186
+            },
+            {
+              "name": "Opisthokonta incertae sedis",
+              "size": 2274
+            },
+            {
+              "name": "Calcarea",
+              "size": 387
+            },
+            {
+              "name": "Campanulariidae",
+              "size": 5599
+            },
+            {
+              "name": "Eumetazoa",
+              "size": 1692
+            },
+            {
+              "name": "Leptothecata",
+              "size": 2136
+            },
+            {
+              "name": "Macoma",
+              "size": 4512
+            },
+            {
+              "name": "Peloderinae",
+              "size": 138
+            },
+            {
+              "name": "Pteronyssidae",
+              "size": 133
+            },
+            {
+              "name": "Spionida",
+              "size": 399
+            },
+            {
+              "name": "Typhlocoela",
+              "size": 15054
+            },
+            {
+              "name": "Annelida",
+              "size": 13529
+            },
+            {
+              "name": "Mytilicolidae",
+              "size": 373
+            },
+            {
+              "name": "Nemertodermatidae",
+              "size": 2346
+            },
+            {
+              "name": "Pelodera",
+              "size": 224
+            },
+            {
+              "name": "Podoplea",
+              "size": 29173
+            },
+            {
+              "name": "Pontellidae",
+              "size": 157
+            },
+            {
+              "name": "Opisthokonta",
+              "size": 696
+            },
+            {
+              "name": "Echiura",
+              "size": 715
+            },
+            {
+              "name": "Fungi",
+              "size": 101
+            },
+            {
+              "name": "Arca",
+              "size": 115
+            },
+            {
+              "name": "Chordata",
+              "size": 85
+            },
+            {
+              "name": "Dorvilleidae",
+              "size": 99
+            },
+            {
+              "name": "Gastropoda",
+              "size": 36
+            },
+            {
+              "name": "Rhynchonellata",
+              "size": 8
+            },
+            {
+              "name": "Sabellida",
+              "size": 3826
+            },
+            {
+              "name": "Buguloidea",
+              "size": 48
+            },
+            {
+              "name": "Geophilidae",
+              "size": 21
+            },
+            {
+              "name": "Nereididae",
+              "size": 1412
+            },
+            {
+              "name": "Spionidae",
+              "size": 11506
+            },
+            {
+              "name": "Ichthyosporea",
+              "size": 203
+            },
+            {
+              "name": "Ausejanus",
+              "size": 106
+            },
+            {
+              "name": "Bryozoa",
+              "size": 69
+            },
+            {
+              "name": "Cardioidea",
+              "size": 215
+            },
+            {
+              "name": "Chrysopetalidae",
+              "size": 43
+            },
+            {
+              "name": "Chthonioidea",
+              "size": 4
+            },
+            {
+              "name": "Magelona",
+              "size": 30
+            },
+            {
+              "name": "Megadasys",
+              "size": 99
+            },
+            {
+              "name": "Nudibranchia",
+              "size": 105
+            },
+            {
+              "name": "Candida",
+              "size": 493
+            },
+            {
+              "name": "Cantharellales",
+              "size": 13
+            },
+            {
+              "name": "Saccharomycetaceae",
+              "size": 42
+            },
+            {
+              "name": "mitosporic Saccharomycetales",
+              "size": 37
+            },
+            {
+              "name": "Acoelomorpha",
+              "size": 166
+            },
+            {
+              "name": "Actiniidae",
+              "size": 636
+            },
+            {
+              "name": "Hexacorallia",
+              "size": 203
+            },
+            {
+              "name": "Monstrilla",
+              "size": 10
+            },
+            {
+              "name": "Porifera",
+              "size": 29
+            },
+            {
+              "name": "Pseudodiaptomus",
+              "size": 57
+            },
+            {
+              "name": "Pterioida",
+              "size": 2
+            },
+            {
+              "name": "Sacoglossa",
+              "size": 69
+            },
+            {
+              "name": "Siphonostomatoida",
+              "size": 283
+            },
+            {
+              "name": "Tritonia",
+              "size": 24
+            },
+            {
+              "name": "Cordyceps",
+              "size": 3
+            },
+            {
+              "name": "Polycladida",
+              "size": 7961
+            },
+            {
+              "name": "Rhabditophora",
+              "size": 324
+            },
+            {
+              "name": "Bivalvia",
+              "size": 40
+            },
+            {
+              "name": "Entoprocta",
+              "size": 25
+            },
+            {
+              "name": "Eupulmonata",
+              "size": 2
+            },
+            {
+              "name": "Haplosclerida",
+              "size": 18
+            },
+            {
+              "name": "Panpulmonata",
+              "size": 381
+            },
+            {
+              "name": "Protobranchia",
+              "size": 2
+            },
+            {
+              "name": "Scolecida",
+              "size": 37
+            },
+            {
+              "name": "Veneroida",
+              "size": 6041
+            },
+            {
+              "name": "Hypocreales",
+              "size": 2
+            },
+            {
+              "name": "Ennucula",
+              "size": 104
+            },
+            {
+              "name": "Eunicida",
+              "size": 23
+            },
+            {
+              "name": "Ophiuridea",
+              "size": 678
+            },
+            {
+              "name": "Ophiurina",
+              "size": 35
+            },
+            {
+              "name": "Pseudomonocelis",
+              "size": 14
+            },
+            {
+              "name": "Pteriomorphia",
+              "size": 14
+            },
+            {
+              "name": "Alcyonidiidae",
+              "size": 198
+            },
+            {
+              "name": "Euthyneura",
+              "size": 2
+            },
+            {
+              "name": "Rotifera",
+              "size": 42
+            },
+            {
+              "name": "Hydroidolina",
+              "size": 1155
+            },
+            {
+              "name": "Hydrozoa",
+              "size": 23671
+            },
+            {
+              "name": "Leucophoropterini",
+              "size": 2
+            },
+            {
+              "name": "Smittinidae",
+              "size": 3
+            },
+            {
+              "name": "Lophotrochozoa",
+              "size": 16
+            },
+            {
+              "name": "Macrodasyida",
+              "size": 11
+            },
+            {
+              "name": "Tellinidae",
+              "size": 57
+            },
+            {
+              "name": "Pseudodiaptomidae",
+              "size": 311
+            },
+            {
+              "name": "Asterozoa",
+              "size": 194
+            },
+            {
+              "name": "Gnathophiurina",
+              "size": 6
+            },
+            {
+              "name": "Lepidodasyidae",
+              "size": 40
+            },
+            {
+              "name": "Coniophorineae",
+              "size": 2
+            },
+            {
+              "name": "Mollusca",
+              "size": 66
+            },
+            {
+              "name": "Nucleariidae and Fonticula group",
+              "size": 36
+            },
+            {
+              "name": "Celleporina",
+              "size": 345
+            },
+            {
+              "name": "Flustrina",
+              "size": 13
+            },
+            {
+              "name": "Glycinde",
+              "size": 12454
+            },
+            {
+              "name": "Goniadidae",
+              "size": 1022
+            },
+            {
+              "name": "Poecilostomatoida",
+              "size": 111
+            },
+            {
+              "name": "Alloptes",
+              "size": 8
+            },
+            {
+              "name": "Heteroconchia",
+              "size": 253
+            },
+            {
+              "name": "Sarcoptoidea",
+              "size": 7
+            },
+            {
+              "name": "Amerodectes",
+              "size": 4
+            },
+            {
+              "name": "Haplognathia",
+              "size": 2
+            },
+            {
+              "name": "Neogastropoda",
+              "size": 531
+            },
+            {
+              "name": "Pleurotomarioidea",
+              "size": 4
+            },
+            {
+              "name": "Syllidae",
+              "size": 26
+            },
+            {
+              "name": "Demospongiae",
+              "size": 37
+            },
+            {
+              "name": "Dendrochirotida",
+              "size": 51
+            },
+            {
+              "name": "Electra",
+              "size": 145
+            },
+            {
+              "name": "Bugula",
+              "size": 2
+            },
+            {
+              "name": "Geophilomorpha",
+              "size": 29
+            },
+            {
+              "name": "Mesozoa",
+              "size": 25
+            },
+            {
+              "name": "Nynantheae",
+              "size": 3
+            },
+            {
+              "name": "Veneroidea",
+              "size": 525
+            },
+            {
+              "name": "Arcidae",
+              "size": 12
+            },
+            {
+              "name": "Ctenophora",
+              "size": 6
+            },
+            {
+              "name": "Marphysa",
+              "size": 18
+            },
+            {
+              "name": "Agaricomycetes incertae sedis",
+              "size": 10
+            },
+            {
+              "name": "Centropages",
+              "size": 400
+            },
+            {
+              "name": "Megascolecidae",
+              "size": 2
+            },
+            {
+              "name": "Paucitubulatina",
+              "size": 12
+            },
+            {
+              "name": "Ploima",
+              "size": 1940
+            },
+            {
+              "name": "Polynoidae",
+              "size": 23
+            },
+            {
+              "name": "Sabellidae",
+              "size": 14
+            },
+            {
+              "name": "Spirobolida",
+              "size": 6
+            },
+            {
+              "name": "Sternorrhyncha",
+              "size": 142
+            },
+            {
+              "name": "Terebellidae",
+              "size": 125
+            },
+            {
+              "name": "Tubificidae",
+              "size": 2
+            },
+            {
+              "name": "Brachiopoda",
+              "size": 10
+            },
+            {
+              "name": "Mytilinae",
+              "size": 2143
+            },
+            {
+              "name": "Proctophyllodidae",
+              "size": 996
+            },
+            {
+              "name": "Dacrymycetales",
+              "size": 11
+            },
+            {
+              "name": "Amblyosyllis",
+              "size": 5
+            },
+            {
+              "name": "Thecostraca",
+              "size": 31
+            },
+            {
+              "name": "Amphiporus",
+              "size": 3
+            },
+            {
+              "name": "Ascidiacea",
+              "size": 428
+            },
+            {
+              "name": "Montacutidae",
+              "size": 398
+            },
+            {
+              "name": "Onchidorididae",
+              "size": 146
+            },
+            {
+              "name": "Pholadidae",
+              "size": 47
+            },
+            {
+              "name": "Placobranchidae",
+              "size": 31
+            },
+            {
+              "name": "Primates",
+              "size": 2
+            },
+            {
+              "name": "Serpulidae",
+              "size": 2746
+            },
+            {
+              "name": "Metschnikowia",
+              "size": 7
+            },
+            {
+              "name": "Cerebratulus",
+              "size": 44
+            },
+            {
+              "name": "Euopisthobranchia",
+              "size": 2
+            },
+            {
+              "name": "Galatheoidea",
+              "size": 4
+            },
+            {
+              "name": "Parasitengona",
+              "size": 14
+            },
+            {
+              "name": "Scalidophora",
+              "size": 13
+            },
+            {
+              "name": "Sigmurethra",
+              "size": 18
+            },
+            {
+              "name": "Pandaloidea",
+              "size": 67
+            },
+            {
+              "name": "Galeoidea",
+              "size": 7
+            },
+            {
+              "name": "Myodocopa",
+              "size": 4
+            },
+            {
+              "name": "Amphisamytha",
+              "size": 21
+            },
+            {
+              "name": "Galeomma",
+              "size": 2
+            },
+            {
+              "name": "Dipodascaceae",
+              "size": 2
+            },
+            {
+              "name": "Actiniaria",
+              "size": 8
+            },
+            {
+              "name": "Harpacticoida",
+              "size": 27
+            },
+            {
+              "name": "Micrura",
+              "size": 4
+            },
+            {
+              "name": "Sphaerotheriidae",
+              "size": 2
+            },
+            {
+              "name": "Tricladida",
+              "size": 8
+            },
+            {
+              "name": "Acanthomorphata",
+              "size": 2
+            },
+            {
+              "name": "Glossiphoniidae",
+              "size": 6
+            },
+            {
+              "name": "Loxosomella",
+              "size": 333
+            },
+            {
+              "name": "Malacostraca",
+              "size": 5
+            },
+            {
+              "name": "Oweniidae",
+              "size": 21
+            },
+            {
+              "name": "Spirobolellidae",
+              "size": 3
+            },
+            {
+              "name": "Geoplanidae",
+              "size": 21
+            },
+            {
+              "name": "Gyptis",
+              "size": 7
+            },
+            {
+              "name": "Hirudiniformes",
+              "size": 2
+            },
+            {
+              "name": "Lithophaginae",
+              "size": 55
+            },
+            {
+              "name": "Membranipora",
+              "size": 333
+            },
+            {
+              "name": "Sigalionidae",
+              "size": 136
+            },
+            {
+              "name": "Capitellida",
+              "size": 2
+            },
+            {
+              "name": "Crucigera",
+              "size": 3
+            },
+            {
+              "name": "Lucinidae",
+              "size": 6
+            },
+            {
+              "name": "Lucinoidea",
+              "size": 12
+            },
+            {
+              "name": "Pectinoidea",
+              "size": 57
+            },
+            {
+              "name": "Verrucaria",
+              "size": 2
+            },
+            {
+              "name": "Donax",
+              "size": 61
+            },
+            {
+              "name": "Mytilidae",
+              "size": 26
+            },
+            {
+              "name": "Otomorpha",
+              "size": 41
+            },
+            {
+              "name": "Caenogastropoda",
+              "size": 18
+            },
+            {
+              "name": "Mactridae",
+              "size": 14
+            },
+            {
+              "name": "Chitonina",
+              "size": 2
+            },
+            {
+              "name": "Scalpellidae",
+              "size": 2
+            },
+            {
+              "name": "Actinostolidae",
+              "size": 4
+            },
+            {
+              "name": "Monhysterida",
+              "size": 2
+            },
+            {
+              "name": "Nematoplana",
+              "size": 7
+            },
+            {
+              "name": "Cardiidae",
+              "size": 92
+            },
+            {
+              "name": "Forcipulatida",
+              "size": 2
+            },
+            {
+              "name": "Peracarida",
+              "size": 11
+            },
+            {
+              "name": "Teredinidae",
+              "size": 27
+            },
+            {
+              "name": "Zygentoma",
+              "size": 6
+            },
+            {
+              "name": "Helminthomorpha",
+              "size": 2
+            },
+            {
+              "name": "Platyhelminthes",
+              "size": 4
+            },
+            {
+              "name": "Solenoidea",
+              "size": 2
+            },
+            {
+              "name": "Anthopleura",
+              "size": 2
+            },
+            {
+              "name": "Multivalvulida",
+              "size": 2
+            },
+            {
+              "name": "Hymenochaetaceae",
+              "size": 2
+            },
+            {
+              "name": "Lachnocladiaceae",
+              "size": 3
+            },
+            {
+              "name": "Hebellidae",
+              "size": 2
+            },
+            {
+              "name": "Orthopteroidea",
+              "size": 5
+            },
+            {
+              "name": "Salticidae",
+              "size": 2
+            },
+            {
+              "name": "Ctenostomatida",
+              "size": 20
+            },
+            {
+              "name": "Himantariidae",
+              "size": 22
+            },
+            {
+              "name": "Panarthropoda",
+              "size": 4
+            },
+            {
+              "name": "Poecilosclerida",
+              "size": 2
+            },
+            {
+              "name": "Sarcopterygii",
+              "size": 2
+            },
+            {
+              "name": "Terebellida",
+              "size": 2
+            },
+            {
+              "name": "Capnodiales",
+              "size": 2
+            },
+            {
+              "name": "Ustilaginales",
+              "size": 4
+            },
+            {
+              "name": "unclassified Fungi",
+              "size": 8
+            },
+            {
+              "name": "Actinoscyphiidae",
+              "size": 3
+            },
+            {
+              "name": "Phascolosoma",
+              "size": 2
+            },
+            {
+              "name": "Psocidae",
+              "size": 2
+            },
+            {
+              "name": "Hyaloscyphaceae",
+              "size": 2
+            },
+            {
+              "name": "Laonice",
+              "size": 2
+            },
+            {
+              "name": "Capitella",
+              "size": 3
+            },
+            {
+              "name": "Goniasteridae",
+              "size": 2
+            },
+            {
+              "name": "Olindiidae",
+              "size": 2
+            }
+          ]
+        },
+        {
+          "name": "Rhizaria",
+          "children": [
+            {
+              "name": "Cercomonadida",
+              "size": 4965
+            },
+            {
+              "name": "Cercomonadidae",
+              "size": 5327
+            },
+            {
+              "name": "Cercozoa",
+              "size": 1643
+            },
+            {
+              "name": "Lotharella",
+              "size": 499
+            },
+            {
+              "name": "Silicofilosea",
+              "size": 16064
+            },
+            {
+              "name": "Protaspis",
+              "size": 1099
+            },
+            {
+              "name": "Rhizaria",
+              "size": 455
+            },
+            {
+              "name": "Euglyphidae",
+              "size": 27
+            },
+            {
+              "name": "Paracercomonas",
+              "size": 212
+            },
+            {
+              "name": "unclassified Cercozoa",
+              "size": 2441
+            },
+            {
+              "name": "Polycystinea",
+              "size": 3449
+            },
+            {
+              "name": "Chlorarachniophyceae",
+              "size": 275
+            },
+            {
+              "name": "Cercomonas",
+              "size": 2
+            }
+          ]
+        },
+        {
+          "name": "Stramenopiles",
+          "children": [
+            {
+              "name": "Biddulphiaceae",
+              "size": 22260
+            },
+            {
+              "name": "Coscinodiscophyceae",
+              "size": 10054
+            },
+            {
+              "name": "Thalassiosiraceae",
+              "size": 33741
+            },
+            {
+              "name": "Triceratiaceae",
+              "size": 1667
+            },
+            {
+              "name": "Spumella",
+              "size": 1793
+            },
+            {
+              "name": "Stramenopiles",
+              "size": 19792
+            },
+            {
+              "name": "Mischococcales",
+              "size": 15322
+            },
+            {
+              "name": "Bacillariophyta",
+              "size": 5427
+            },
+            {
+              "name": "Biddulphia",
+              "size": 17936
+            },
+            {
+              "name": "Biddulphiophycidae",
+              "size": 10241
+            },
+            {
+              "name": "Ditylum",
+              "size": 715
+            },
+            {
+              "name": "unclassified Chrysophyceae",
+              "size": 218
+            },
+            {
+              "name": "Labyrinthulomycetes",
+              "size": 979
+            },
+            {
+              "name": "Synurophyceae",
+              "size": 1246
+            },
+            {
+              "name": "Chromulinaceae",
+              "size": 456
+            },
+            {
+              "name": "Chromulinales",
+              "size": 253
+            },
+            {
+              "name": "Spumella-like flagellate JB",
+              "size": 1240
+            },
+            {
+              "name": "unclassified Spumella",
+              "size": 573
+            },
+            {
+              "name": "unclassified Thraustochytriidae",
+              "size": 844
+            },
+            {
+              "name": "unclassified Thraustochytrium",
+              "size": 137
+            },
+            {
+              "name": "Lithodesmiaceae",
+              "size": 192
+            },
+            {
+              "name": "Bacillariophycidae",
+              "size": 1958
+            },
+            {
+              "name": "Coscinodiscales",
+              "size": 1000
+            },
+            {
+              "name": "Fragilariaceae",
+              "size": 14
+            },
+            {
+              "name": "Chrysosphaerales",
+              "size": 5
+            },
+            {
+              "name": "Diatoma",
+              "size": 20
+            },
+            {
+              "name": "Porosira",
+              "size": 8
+            },
+            {
+              "name": "Dictyochophyceae",
+              "size": 2856
+            },
+            {
+              "name": "Triceratium",
+              "size": 75
+            },
+            {
+              "name": "Thraustochytriaceae",
+              "size": 706
+            },
+            {
+              "name": "Actinoptychus",
+              "size": 141
+            },
+            {
+              "name": "Bicosoecida",
+              "size": 395
+            },
+            {
+              "name": "Pelagomonadales",
+              "size": 31
+            },
+            {
+              "name": "Bacillariophyceae",
+              "size": 6
+            },
+            {
+              "name": "Phaeothamniophyceae",
+              "size": 3
+            },
+            {
+              "name": "Aurantiochytrium",
+              "size": 17
+            },
+            {
+              "name": "Phaeophyceae",
+              "size": 4
+            },
+            {
+              "name": "PX clade",
+              "size": 2
+            }
+          ]
+        },
+        {
+          "name": "Viridiplantae",
+          "children": [
+            {
+              "name": "Chlorellaceae",
+              "size": 307
+            },
+            {
+              "name": "Arachis",
+              "size": 404
+            },
+            {
+              "name": "Spirogyra",
+              "size": 6
+            },
+            {
+              "name": "Mamiellophyceae",
+              "size": 3696
+            },
+            {
+              "name": "Dalbergieae",
+              "size": 362
+            },
+            {
+              "name": "environmental samples",
+              "size": 591
+            },
+            {
+              "name": "Chlorella",
+              "size": 120
+            },
+            {
+              "name": "Microthamniales",
+              "size": 5
+            },
+            {
+              "name": "Trebouxiophyceae incertae sedis",
+              "size": 12
+            },
+            {
+              "name": "unclassified Chlorophyceae",
+              "size": 2
+            },
+            {
+              "name": "Ulvella",
+              "size": 28
+            },
+            {
+              "name": "Klebsormidiales",
+              "size": 5
+            },
+            {
+              "name": "Pyramimonas",
+              "size": 609
+            },
+            {
+              "name": "Chlamydomonadales",
+              "size": 12
+            },
+            {
+              "name": "Desmidiales",
+              "size": 18
+            },
+            {
+              "name": "unclassified Chlamydomonadaceae",
+              "size": 33
+            },
+            {
+              "name": "Chlorosarcinales",
+              "size": 27
+            },
+            {
+              "name": "prasinophytes",
+              "size": 557
+            },
+            {
+              "name": "Pterosperma",
+              "size": 63
+            },
+            {
+              "name": "Pyramimonadales",
+              "size": 5
+            },
+            {
+              "name": "Chlorophyta",
+              "size": 177
+            },
+            {
+              "name": "Desmodesmus",
+              "size": 5
+            },
+            {
+              "name": "asterids",
+              "size": 2
+            },
+            {
+              "name": "Chlamydomonadaceae",
+              "size": 2
+            },
+            {
+              "name": "Euastrum",
+              "size": 3
+            },
+            {
+              "name": "Cucurbitales",
+              "size": 3
+            },
+            {
+              "name": "Psilotaceae",
+              "size": 4
+            }
+          ]
+        },
+        {
+          "name": "environmental samples",
+          "children": [
+            {
+              "name": "named eukaryotic clones",
+              "size": 13565
+            }
+          ]
+        },
+        {
+          "name": "Cryptophyta",
+          "children": [
+            {
+              "name": "Cryptomonadaceae",
+              "size": 1351
+            },
+            {
+              "name": "unclassified Cryptophyta",
+              "size": 557
+            },
+            {
+              "name": "Pyrenomonadaceae",
+              "size": 14171
+            },
+            {
+              "name": "Cryptophyta",
+              "size": 395
+            },
+            {
+              "name": "Rhodomonas",
+              "size": 517
+            },
+            {
+              "name": "Pyrenomonadales",
+              "size": 38
+            },
+            {
+              "name": "Goniomonas",
+              "size": 17
+            },
+            {
+              "name": "Cryptomonadales",
+              "size": 8
+            }
+          ]
+        },
+        {
+          "name": "NO MATCH",
+          "children": [
+            {
+              "name": "Eukaryota",
+              "size": 529
+            },
+            {
+              "name": "DELETED NODE",
+              "size": 28
+            },
+            {
+              "name": "root",
+              "size": 20
+            }
+          ]
+        },
+        {
+          "name": "Haptophyceae",
+          "children": [
+            {
+              "name": "Chrysochromulina",
+              "size": 4
+            }
+          ]
+        },
+        {
+          "name": "Euglenozoa",
+          "children": [
+            {
+              "name": "Euglenozoa",
+              "size": 5
+            },
+            {
+              "name": "Euglenida",
+              "size": 2
+            }
+          ]
+        },
+        {
+          "name": "Rhodophyta",
+          "children": [
+            {
+              "name": "Ceramiaceae",
+              "size": 4
+            },
+            {
+              "name": "Dasyaceae",
+              "size": 7
+            }
+          ]
+        },
+        {
+          "name": "Glaucocystophyceae",
+          "children": [
+            {
+              "name": "Glaucocystophyceae",
+              "size": 6
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "SU",
+      "children": [
+        {
+          "name": "Alveolata",
+          "children": [
+            {
+              "name": "Choreotrichia",
+              "size": 135
+            },
+            {
+              "name": "Dinophyceae",
+              "size": 32805
+            },
+            {
+              "name": "Gymnodiniales",
+              "size": 15066
+            },
+            {
+              "name": "Peridiniales",
+              "size": 16478
+            },
+            {
+              "name": "Polykrikaceae",
+              "size": 59872
+            },
+            {
+              "name": "Strombidiidae",
+              "size": 565
+            },
+            {
+              "name": "Tintinnopsis",
+              "size": 356
+            },
+            {
+              "name": "Protoperidinium",
+              "size": 1296
+            },
+            {
+              "name": "environmental samples",
+              "size": 2120
+            },
+            {
+              "name": "Peritrichia",
+              "size": 7
+            },
+            {
+              "name": "Tintinnida",
+              "size": 52
+            },
+            {
+              "name": "Amoebophrya",
+              "size": 814
+            },
+            {
+              "name": "Polykrikos",
+              "size": 19
+            },
+            {
+              "name": "Spirotrichea",
+              "size": 26
+            },
+            {
+              "name": "Archaeperidinium",
+              "size": 5
+            },
+            {
+              "name": "Syndiniales",
+              "size": 410
+            },
+            {
+              "name": "Armophorida",
+              "size": 5
+            },
+            {
+              "name": "Phyllopharyngea",
+              "size": 2
+            },
+            {
+              "name": "Trichostomatia",
+              "size": 277
+            },
+            {
+              "name": "Intramacronucleata",
+              "size": 4
+            },
+            {
+              "name": "Oligohymenophorea",
+              "size": 11
+            },
+            {
+              "name": "Scuticociliatia",
+              "size": 54
+            },
+            {
+              "name": "Tontoniidae",
+              "size": 78
+            },
+            {
+              "name": "Oligotrichia",
+              "size": 6
+            },
+            {
+              "name": "Strombidinopsis",
+              "size": 6
+            },
+            {
+              "name": "Prorodontida",
+              "size": 17
+            },
+            {
+              "name": "Strombidium",
+              "size": 25
+            },
+            {
+              "name": "Philasterida",
+              "size": 9
+            },
+            {
+              "name": "Alveolata",
+              "size": 5
+            },
+            {
+              "name": "Eugregarinorida",
+              "size": 37
+            },
+            {
+              "name": "Lankesterella",
+              "size": 3
+            }
+          ]
+        },
+        {
+          "name": "Cryptophyta",
+          "children": [
+            {
+              "name": "Cryptomonadaceae",
+              "size": 433
+            },
+            {
+              "name": "Cryptophyta",
+              "size": 413
+            },
+            {
+              "name": "unclassified Cryptophyta",
+              "size": 71
+            },
+            {
+              "name": "Pyrenomonadaceae",
+              "size": 158
+            },
+            {
+              "name": "Pyrenomonadales",
+              "size": 3
+            },
+            {
+              "name": "Rhodomonas",
+              "size": 37
+            }
+          ]
+        },
+        {
+          "name": "Opisthokonta",
+          "children": [
+            {
+              "name": "Calanoida",
+              "size": 160671
+            },
+            {
+              "name": "Eupulmonata",
+              "size": 113
+            },
+            {
+              "name": "Nudibranchia",
+              "size": 210
+            },
+            {
+              "name": "Phyllodocida",
+              "size": 1051
+            },
+            {
+              "name": "Protobranchia",
+              "size": 3
+            },
+            {
+              "name": "Actiniidae",
+              "size": 96
+            },
+            {
+              "name": "Dorvilleidae",
+              "size": 13
+            },
+            {
+              "name": "Calcaxonia",
+              "size": 2676
+            },
+            {
+              "name": "Centropages",
+              "size": 115
+            },
+            {
+              "name": "Cyclopoida",
+              "size": 523
+            },
+            {
+              "name": "Euopisthobranchia",
+              "size": 127
+            },
+            {
+              "name": "Nemertodermatidae",
+              "size": 675
+            },
+            {
+              "name": "Panpulmonata",
+              "size": 10759
+            },
+            {
+              "name": "Peloderinae",
+              "size": 5
+            },
+            {
+              "name": "Placobranchidae",
+              "size": 101
+            },
+            {
+              "name": "Podoplea",
+              "size": 532
+            },
+            {
+              "name": "Pontellidae",
+              "size": 158
+            },
+            {
+              "name": "Sigmurethra",
+              "size": 404
+            },
+            {
+              "name": "Ennucula",
+              "size": 1280
+            },
+            {
+              "name": "Hesionidae",
+              "size": 117
+            },
+            {
+              "name": "Heteroconchia",
+              "size": 48
+            },
+            {
+              "name": "Magelona",
+              "size": 2
+            },
+            {
+              "name": "Oxynooidea",
+              "size": 36
+            },
+            {
+              "name": "Sabellida",
+              "size": 63
+            },
+            {
+              "name": "Sacoglossa",
+              "size": 1537
+            },
+            {
+              "name": "Sarcoptoidea",
+              "size": 10
+            },
+            {
+              "name": "Scolecida",
+              "size": 5
+            },
+            {
+              "name": "Stylommatophora",
+              "size": 10
+            },
+            {
+              "name": "Typhlocoela",
+              "size": 159
+            },
+            {
+              "name": "Unguiphora",
+              "size": 37
+            },
+            {
+              "name": "Veneroida",
+              "size": 1239
+            },
+            {
+              "name": "Cerebratulus",
+              "size": 1646
+            },
+            {
+              "name": "Euthyneura",
+              "size": 14
+            },
+            {
+              "name": "Heteronemertea",
+              "size": 130
+            },
+            {
+              "name": "Mactridae",
+              "size": 4
+            },
+            {
+              "name": "Micrura",
+              "size": 52
+            },
+            {
+              "name": "Nereididae",
+              "size": 2046
+            },
+            {
+              "name": "Pteronyssidae",
+              "size": 27
+            },
+            {
+              "name": "Siphonostomatoida",
+              "size": 1243
+            },
+            {
+              "name": "Tellinidae",
+              "size": 73
+            },
+            {
+              "name": "Teredinidae",
+              "size": 173
+            },
+            {
+              "name": "Veneroidea",
+              "size": 1338
+            },
+            {
+              "name": "Donax",
+              "size": 2892
+            },
+            {
+              "name": "Echiura",
+              "size": 672
+            },
+            {
+              "name": "Eumetazoa",
+              "size": 41
+            },
+            {
+              "name": "Lophotrochozoa",
+              "size": 8
+            },
+            {
+              "name": "Porifera",
+              "size": 7
+            },
+            {
+              "name": "Pteriomorphia",
+              "size": 4
+            },
+            {
+              "name": "Temnopleuroida",
+              "size": 4
+            },
+            {
+              "name": "Ichthyosporea",
+              "size": 29
+            },
+            {
+              "name": "Bivalvia",
+              "size": 13
+            },
+            {
+              "name": "Brachiopoda",
+              "size": 8
+            },
+            {
+              "name": "Aciculata",
+              "size": 4
+            },
+            {
+              "name": "Macoma",
+              "size": 1983
+            },
+            {
+              "name": "Leptolaimoidea",
+              "size": 4
+            },
+            {
+              "name": "Megascolecidae",
+              "size": 2
+            },
+            {
+              "name": "Ploima",
+              "size": 518
+            },
+            {
+              "name": "Sabellidae",
+              "size": 6
+            },
+            {
+              "name": "Fungi",
+              "size": 123
+            },
+            {
+              "name": "Calcarea",
+              "size": 119
+            },
+            {
+              "name": "Campanulariidae",
+              "size": 151
+            },
+            {
+              "name": "Cardiidae",
+              "size": 319
+            },
+            {
+              "name": "Cardioidea",
+              "size": 24
+            },
+            {
+              "name": "Celleporina",
+              "size": 79
+            },
+            {
+              "name": "Glycinde",
+              "size": 2
+            },
+            {
+              "name": "Leptothecata",
+              "size": 5
+            },
+            {
+              "name": "Oweniidae",
+              "size": 96
+            },
+            {
+              "name": "Rhabditophora",
+              "size": 2
+            },
+            {
+              "name": "Rotifera",
+              "size": 20
+            },
+            {
+              "name": "Sordariomycetidae",
+              "size": 48
+            },
+            {
+              "name": "Ascidiacea",
+              "size": 153
+            },
+            {
+              "name": "Opisthokonta incertae sedis",
+              "size": 468
+            },
+            {
+              "name": "Chordata",
+              "size": 16
+            },
+            {
+              "name": "Mytilicolidae",
+              "size": 204
+            },
+            {
+              "name": "Peracarida",
+              "size": 6
+            },
+            {
+              "name": "Proctophyllodidae",
+              "size": 350
+            },
+            {
+              "name": "Thecostraca",
+              "size": 10
+            },
+            {
+              "name": "Opisthokonta",
+              "size": 8
+            },
+            {
+              "name": "Acoelomorpha",
+              "size": 2
+            },
+            {
+              "name": "Alloptes",
+              "size": 6
+            },
+            {
+              "name": "Annelida",
+              "size": 31
+            },
+            {
+              "name": "Bryozoa",
+              "size": 3
+            },
+            {
+              "name": "Gastropoda",
+              "size": 2
+            },
+            {
+              "name": "Hydroidolina",
+              "size": 8
+            },
+            {
+              "name": "Hydrozoa",
+              "size": 5
+            },
+            {
+              "name": "Nematoplana",
+              "size": 2
+            },
+            {
+              "name": "Pectinoidea",
+              "size": 10
+            },
+            {
+              "name": "Pseudodiaptomus",
+              "size": 5
+            },
+            {
+              "name": "Spionida",
+              "size": 45
+            },
+            {
+              "name": "Tubificidae",
+              "size": 2
+            },
+            {
+              "name": "Acari",
+              "size": 3
+            },
+            {
+              "name": "Anopla",
+              "size": 3
+            },
+            {
+              "name": "Centropagidae",
+              "size": 3
+            },
+            {
+              "name": "Geophilomorpha",
+              "size": 9
+            },
+            {
+              "name": "Geoplanidae",
+              "size": 11
+            },
+            {
+              "name": "Himantariidae",
+              "size": 3
+            },
+            {
+              "name": "Lineidae",
+              "size": 14
+            },
+            {
+              "name": "Lucinoidea",
+              "size": 23
+            },
+            {
+              "name": "Macrodasyida",
+              "size": 2
+            },
+            {
+              "name": "Malacostraca",
+              "size": 23
+            },
+            {
+              "name": "Megadasys",
+              "size": 10
+            },
+            {
+              "name": "Mollusca",
+              "size": 6
+            },
+            {
+              "name": "Nemertea",
+              "size": 6
+            },
+            {
+              "name": "Otomorpha",
+              "size": 8
+            },
+            {
+              "name": "Pelodera",
+              "size": 11
+            },
+            {
+              "name": "Pholadidae",
+              "size": 7
+            },
+            {
+              "name": "Pseudodiaptomidae",
+              "size": 22
+            },
+            {
+              "name": "Rhynchonellata",
+              "size": 32
+            },
+            {
+              "name": "Spionidae",
+              "size": 8
+            },
+            {
+              "name": "Tellinoidea",
+              "size": 2
+            },
+            {
+              "name": "Alcyonidiidae",
+              "size": 29
+            },
+            {
+              "name": "Arcidae",
+              "size": 6
+            },
+            {
+              "name": "Asterozoa",
+              "size": 6
+            },
+            {
+              "name": "Capitellida",
+              "size": 7
+            },
+            {
+              "name": "Diadematacea",
+              "size": 344
+            },
+            {
+              "name": "Echinacea",
+              "size": 12
+            },
+            {
+              "name": "Lepraliomorpha",
+              "size": 4
+            },
+            {
+              "name": "Mesozoa",
+              "size": 4
+            },
+            {
+              "name": "Myoida",
+              "size": 9
+            },
+            {
+              "name": "Octocorallia",
+              "size": 4
+            },
+            {
+              "name": "Scalpellidae",
+              "size": 8
+            },
+            {
+              "name": "Sessilia",
+              "size": 15
+            },
+            {
+              "name": "Temnopleuridae",
+              "size": 2
+            },
+            {
+              "name": "Trochoidea",
+              "size": 4
+            },
+            {
+              "name": "Poecilostomatoida",
+              "size": 6
+            },
+            {
+              "name": "Neogastropoda",
+              "size": 2
+            },
+            {
+              "name": "Geophilidae",
+              "size": 2
+            },
+            {
+              "name": "lower Heterobranchia",
+              "size": 2
+            },
+            {
+              "name": "Basidiomycota",
+              "size": 2
+            },
+            {
+              "name": "Marphysa",
+              "size": 3
+            },
+            {
+              "name": "Mytilinae",
+              "size": 2
+            },
+            {
+              "name": "Pionosyllis",
+              "size": 2
+            },
+            {
+              "name": "Polychaeta",
+              "size": 6
+            },
+            {
+              "name": "Trochidae",
+              "size": 4
+            },
+            {
+              "name": "Dendrochirotida",
+              "size": 3
+            }
+          ]
+        },
+        {
+          "name": "Stramenopiles",
+          "children": [
+            {
+              "name": "Biddulphiophycidae",
+              "size": 576
+            },
+            {
+              "name": "Biddulphiaceae",
+              "size": 3801
+            },
+            {
+              "name": "Coscinodiscales",
+              "size": 152
+            },
+            {
+              "name": "Triceratiaceae",
+              "size": 660
+            },
+            {
+              "name": "Chromulinaceae",
+              "size": 25
+            },
+            {
+              "name": "unclassified Chrysophyceae",
+              "size": 22
+            },
+            {
+              "name": "unclassified Thraustochytriidae",
+              "size": 136
+            },
+            {
+              "name": "Synurophyceae",
+              "size": 732
+            },
+            {
+              "name": "Bacillariophyta",
+              "size": 896
+            },
+            {
+              "name": "Biddulphia",
+              "size": 3577
+            },
+            {
+              "name": "Coscinodiscophyceae",
+              "size": 3187
+            },
+            {
+              "name": "Thalassiosiraceae",
+              "size": 1841
+            },
+            {
+              "name": "Chromulinales",
+              "size": 22
+            },
+            {
+              "name": "Spumella-like flagellate JB",
+              "size": 27
+            },
+            {
+              "name": "Stramenopiles",
+              "size": 3377
+            },
+            {
+              "name": "Mischococcales",
+              "size": 352
+            },
+            {
+              "name": "Spumella",
+              "size": 17
+            },
+            {
+              "name": "Bacillariophycidae",
+              "size": 161
+            },
+            {
+              "name": "Ditylum",
+              "size": 111
+            },
+            {
+              "name": "unclassified Spumella",
+              "size": 8
+            },
+            {
+              "name": "unclassified Thraustochytrium",
+              "size": 46
+            },
+            {
+              "name": "Labyrinthulomycetes",
+              "size": 727
+            },
+            {
+              "name": "Dictyochophyceae",
+              "size": 471
+            },
+            {
+              "name": "Phaeophyceae",
+              "size": 2
+            },
+            {
+              "name": "Lithodesmiaceae",
+              "size": 11
+            },
+            {
+              "name": "Thraustochytriaceae",
+              "size": 81
+            },
+            {
+              "name": "Bicosoecida",
+              "size": 14
+            },
+            {
+              "name": "Chrysophyceae",
+              "size": 3
+            },
+            {
+              "name": "Diatoma",
+              "size": 2
+            },
+            {
+              "name": "Fragilariaceae",
+              "size": 6
+            },
+            {
+              "name": "Triceratium",
+              "size": 2
+            },
+            {
+              "name": "PX clade",
+              "size": 15
+            }
+          ]
+        },
+        {
+          "name": "Viridiplantae",
+          "children": [
+            {
+              "name": "Chlamydomonadaceae",
+              "size": 290
+            },
+            {
+              "name": "Chlorosarcinopsis",
+              "size": 2
+            },
+            {
+              "name": "Mamiellophyceae",
+              "size": 15618
+            },
+            {
+              "name": "Microthamniales",
+              "size": 56
+            },
+            {
+              "name": "Dalbergieae",
+              "size": 21
+            },
+            {
+              "name": "Klebsormidiales",
+              "size": 134
+            },
+            {
+              "name": "Chlamydomonadales",
+              "size": 64
+            },
+            {
+              "name": "Chlorella",
+              "size": 3522
+            },
+            {
+              "name": "Chlorophyta",
+              "size": 21
+            },
+            {
+              "name": "Scenedesmaceae",
+              "size": 3
+            },
+            {
+              "name": "environmental samples",
+              "size": 112
+            },
+            {
+              "name": "unclassified Chlamydomonadaceae",
+              "size": 439
+            },
+            {
+              "name": "Coccomyxa",
+              "size": 2
+            },
+            {
+              "name": "Monomastix",
+              "size": 4
+            },
+            {
+              "name": "Prasiolaceae",
+              "size": 2
+            },
+            {
+              "name": "Arachis",
+              "size": 35
+            },
+            {
+              "name": "Ulvella",
+              "size": 23
+            },
+            {
+              "name": "prasinophytes",
+              "size": 134
+            },
+            {
+              "name": "Desmidiales",
+              "size": 4
+            },
+            {
+              "name": "Chlorellaceae",
+              "size": 46
+            },
+            {
+              "name": "Chlorophyceae",
+              "size": 17
+            },
+            {
+              "name": "Chlorosarcinales",
+              "size": 21
+            },
+            {
+              "name": "Prasiola",
+              "size": 2
+            },
+            {
+              "name": "Pyramimonas",
+              "size": 284
+            },
+            {
+              "name": "Trebouxiophyceae incertae sedis",
+              "size": 2
+            },
+            {
+              "name": "Pterosperma",
+              "size": 30
+            },
+            {
+              "name": "Euastrum",
+              "size": 30
+            },
+            {
+              "name": "Cucurbitales",
+              "size": 2
+            }
+          ]
+        },
+        {
+          "name": "Rhizaria",
+          "children": [
+            {
+              "name": "Cercomonadidae",
+              "size": 334
+            },
+            {
+              "name": "Cercozoa",
+              "size": 118
+            },
+            {
+              "name": "Cercomonadida",
+              "size": 266
+            },
+            {
+              "name": "Paracercomonas",
+              "size": 23
+            },
+            {
+              "name": "Silicofilosea",
+              "size": 3105
+            },
+            {
+              "name": "Euglyphidae",
+              "size": 2
+            },
+            {
+              "name": "Protaspis",
+              "size": 177
+            },
+            {
+              "name": "Rhizaria",
+              "size": 30
+            },
+            {
+              "name": "Lotharella",
+              "size": 25
+            },
+            {
+              "name": "unclassified Cercozoa",
+              "size": 185
+            },
+            {
+              "name": "Chlorarachniophyceae",
+              "size": 6
+            }
+          ]
+        },
+        {
+          "name": "Amoebozoa",
+          "children": [
+            {
+              "name": "Stemonitis",
+              "size": 98
+            },
+            {
+              "name": "Stemonitidae",
+              "size": 25
+            },
+            {
+              "name": "Acanthamoeba",
+              "size": 19
+            },
+            {
+              "name": "Amoebozoa",
+              "size": 4
+            },
+            {
+              "name": "Discosea",
+              "size": 11
+            }
+          ]
+        },
+        {
+          "name": "NO MATCH",
+          "children": [
+            {
+              "name": "Eukaryota",
+              "size": 33
+            },
+            {
+              "name": "root",
+              "size": 7
+            }
+          ]
+        },
+        {
+          "name": "Rhodophyta",
+          "children": [
+            {
+              "name": "unclassified Neosiphonia",
+              "size": 2
+            },
+            {
+              "name": "Gigartinales",
+              "size": 6
+            }
+          ]
+        },
+        {
+          "name": "environmental samples",
+          "children": [
+            {
+              "name": "named eukaryotic clones",
+              "size": 501
+            }
+          ]
+        },
+        {
+          "name": "Euglenozoa",
+          "children": [
+            {
+              "name": "Lepocinclis",
+              "size": 2
+            }
+          ]
+        },
+        {
+          "name": "Glaucocystophyceae",
+          "children": [
+            {
+              "name": "Glaucocystophyceae",
+              "size": 5
+            }
+          ]
+        },
+        {
+          "name": "Haptophyceae",
+          "children": [
+            {
+              "name": "Chrysochromulina",
+              "size": 2
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

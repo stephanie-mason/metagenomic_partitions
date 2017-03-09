@@ -25,10 +25,9 @@ html {
 <body>
   <p>
   <a href="placement.html">Placement</a>
-  <a href="date.html">Date</a>
-  Depth
+  Date
+  <a href="index.html">Depth</a>
   </p>
-
 <script src="http://d3js.org/d3.v3.min.js"></script>
 <script>
 
@@ -104,7 +103,7 @@ function mouseMoveArc (d) {
 }
 
 var root_ = null;
-d3.json("sample_depth.json", function(error, root) {
+d3.json("date.json", function(error, root) {
   if (error) return console.warn(error);
   // Compute the initial layout on the entire tree to sum sizes.
   // Also compute the full name and fill color for each node,
