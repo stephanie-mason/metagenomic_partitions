@@ -1,6 +1,26 @@
 <!DOCTYPE html>
 <meta charset="utf-8">
 <style>
+@import url('https://fonts.googleapis.com/css?family=Baloo+Bhaina');
+
+body {
+  font-family: 'Baloo Bhaina';
+}
+
+a {
+	text-decoration: none;
+	color: black;
+	margin: 0 30px;
+}
+
+.wrapper {
+	width: 100vw;
+	text-align: center;
+}
+
+.controls {
+	text-align: center;
+}
 
 circle,
 path {
@@ -23,11 +43,16 @@ html {
 }
 </style>
 <body>
-  <p>
-  Placement
-  <a href="date.html">Date</a>
-  <a href="index.html">Depth</a>
-  </p>
+  <div class="wrapper">
+  <div class="visual"></div>
+  <div class="controls">
+    <p>
+      <a href="index.html">Depth</a>
+      <a href="placement.html">Placement</a>
+      <a href="date.html">Date</a>
+    </p>
+  </div>
+  </div>
 <script src="http://d3js.org/d3.v3.min.js"></script>
 <script>
 
@@ -43,7 +68,7 @@ var luminance = d3.scale.sqrt()
     .clamp(true)
     .range([90, 70]);
 
-var svg = d3.select("body").append("svg")
+var svg = d3.select(".visual").append("svg")
     .attr("width", margin.left + margin.right)
     .attr("height", margin.top + margin.bottom)
   .append("g")
